@@ -26,6 +26,9 @@
 ### Metrics & Analytics
 ![Metrics Dashboard](dashboard_metrics.png)
 
+---
+
+![Main Dashboard](screenshots/dashboard_main.png)
 
 ---
 
