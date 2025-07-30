@@ -19,12 +19,13 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://placehold.co/800x400?text=Dashboard+Main+View" width="70%" alt="Dashboard Main" />
-</p>
-<p align="center">
-  <img src="https://placehold.co/800x400?text=Metrics+and+Plots" width="70%" alt="Key Metrics" />
-</p>
+
+### Main Dashboard View
+![Main Dashboard](dashboard_main.png)
+
+### Metrics & Analytics
+![Metrics Dashboard](dashboard_metrics.png)
+
 
 ---
 
