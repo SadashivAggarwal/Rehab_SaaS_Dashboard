@@ -12,6 +12,11 @@ A simulated SaaS web dashboard for physical therapy clinics, allowing users to u
 - All data is synthetic
 
 ## Run Locally
+- open powershell - set the directory path to the local computer. 
+run - python -m streamlit run app.py
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+python -m streamlit run app.py
